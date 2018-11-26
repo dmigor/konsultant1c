@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://gallant-mestorf-a2b0fd.netlify.com/* http://konsultant1c.ru/:splat 301!
